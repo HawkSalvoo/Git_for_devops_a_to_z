@@ -83,7 +83,7 @@ git add .
 ### Commit changes for all files
 
 ```bash
-git commit -m "Fixed production bug in payment module"
+git commit . -m "Fixed production bug in payment module"
 ```
 ### Commit changes for single file
 
